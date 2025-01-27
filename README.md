@@ -2,6 +2,8 @@
 
 Data Science Assignment: eCommerce Transactions Dataset
 
+------------------------------------------------------------------------
+
 **Overview:**
 You are provided with an eCommerce Transactions dataset consisting of three files:
 
@@ -16,6 +18,8 @@ https://drive.google.com/file/d/1IKuDizVapw-hyktwfpoAoaGtHtTNHfd0/view?usp=shari
 
 Transactions.csv :
 https://drive.google.com/file/d/1saEqdbBB-vuk2hxoAf4TzDEsykdKlzbF/view?usp=sharing
+-----------------------------------------------------------------------------------------
+
 
 **Files Description:**
 
@@ -29,6 +33,8 @@ https://drive.google.com/file/d/1saEqdbBB-vuk2hxoAf4TzDEsykdKlzbF/view?usp=shari
 
 ○ SignupDate: Date when the customer signed up.
 
+----------------------------------------------------------------
+
 2. Products.csv
    
 ○ ProductID: Unique identifier for each product.
@@ -38,6 +44,8 @@ https://drive.google.com/file/d/1saEqdbBB-vuk2hxoAf4TzDEsykdKlzbF/view?usp=shari
 ○ Category: Product category.
 
 ○ Price: Product price in USD.
+
+--------------------------------------------------------------
 
 3. Transactions.csv
    
