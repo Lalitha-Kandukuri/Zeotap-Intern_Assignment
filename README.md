@@ -2,7 +2,7 @@
 
 Data Science Assignment: eCommerce Transactions Dataset
 
-Overview:
+**Overview:**
 You are provided with an eCommerce Transactions dataset consisting of three files:
 
 Customers.csv, Products.csv, and Transactions.csv. Your task is to perform exploratory data analysis (EDA), build predictive models, and derive actionable insights. This
@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1IKuDizVapw-hyktwfpoAoaGtHtTNHfd0/view?usp=shari
 Transactions.csv :
 https://drive.google.com/file/d/1saEqdbBB-vuk2hxoAf4TzDEsykdKlzbF/view?usp=sharing
 
-Files Description:
+**Files Description:**
 
 1. Customers.csv
    
@@ -29,7 +29,6 @@ Files Description:
 
 ○ SignupDate: Date when the customer signed up.
 
-
 2. Products.csv
    
 ○ ProductID: Unique identifier for each product.
@@ -39,7 +38,6 @@ Files Description:
 ○ Category: Product category.
 
 ○ Price: Product price in USD.
-
 
 3. Transactions.csv
    
